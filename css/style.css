@@ -330,5 +330,378 @@ p {margin:0px;}
 }
 
 .footer_adress {
+    height: 490px;
+    background: url("../img/DSGN_copia.png") no-repeat;
     background-color: #e9eae2;
+}
+
+.title_project {
+    color: #333333;
+    font-family: "Roboto Condensed";
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 10.64px;
+    text-transform: uppercase;
+}
+
+.about_project {
+    color: #333333;
+    font-family: "Roboto Condensed";
+    font-size: 9px;
+    font-weight: 300;
+    line-height: 9.12px;
+    text-transform: uppercase;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.view_project {
+    color: #333333;
+    font-family: "Roboto Condensed";
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 9.12px;
+    text-transform: uppercase;
+}
+
+.likes_project {
+    color: #ff0000;
+    font-family: "Roboto Condensed";
+    font-size: 8px;
+    font-weight: 300;
+    line-height: 9.12px;
+    text-transform: uppercase;
+}
+
+.fondue_title {
+    margin-left: 62px;
+    margin-top: 62px;
+}
+
+.fondue_about {
+    margin-left: 62px;
+    margin-top: 13px;
+}
+
+.fondue_view {
+    margin-left: 47px;
+    margin-top: 57px;
+}
+
+.fondue_likes {
+    margin-left: 90px;
+    margin-top: 87px;
+}
+
+
+.louis_title {
+    margin-left: 25px;
+    margin-top: 31px;
+    color: #fefefe;
+}
+
+.louis_about {
+    margin-left: 24px;
+    margin-top: 13px;
+    color: #fefefe;
+}
+
+.louis_view {
+    margin-left: 24px;
+    margin-top: 28px;
+    color: #fefefe;
+}
+
+.louis_likes {
+    margin-left: 70px;
+    margin-top: 24px;
+}
+
+.alessi_title {
+    margin-left: 120px;
+    margin-top: 61px;
+}
+
+.alessi_about {
+    margin-left: 120px;
+    margin-top: 13px;
+}
+
+.alessi_view {
+    margin-left: 95px;
+    margin-top: 23px;
+}
+
+.alessi_likes {
+    margin-left: 146px;
+    margin-top: 23px;
+}
+
+.potter_title {
+    margin-left: 34px;
+    margin-top: 27px;
+}
+
+.potter_about {
+    margin-left: 34px;
+    margin-top: 10px;
+    text-transform: none;
+}
+
+.potter_view {
+    margin-left: 34px;
+    margin-top: 10px;
+}
+
+.potter_likes {
+    margin-left: 78px;
+    margin-top: 21px;
+}
+
+.fiji_title {
+    margin-left: 189px;
+    margin-top: 39px;
+}
+
+.fiji_about {
+    margin-left: 189px;
+    margin-top: 13px;
+}
+
+.fiji_view {
+    margin-left: 189px;
+    margin-top: 20px;
+}
+
+.fiji_likes {
+    margin-left: 250px;
+    margin-top: 18px;
+}
+
+.p22_col1 {
+    padding: 0 0 0 0;
+}
+
+.p22_col2 {
+    padding: 0 0 0 0;
+}
+
+.p22_title {
+    margin-left: 260px;
+    margin-top: 70px;
+}
+
+.p22_about {
+    margin-left: 260px;
+    margin-top: 14px;
+}
+
+.p22_view {
+    margin-left: 0;
+    margin-top: 70px;
+}
+
+.p22_likes {
+    margin-left: 50px;
+    margin-top: 18px;
+}
+
+.sesann_title {
+    margin-left: 75px;
+    margin-top: 155px;
+}
+
+.sesann_about {
+    margin-left: 75px;
+    margin-top: 8px;
+}
+
+.sesann_view {
+    margin-left: 0;
+    margin-top: 177px;
+}
+
+.sessan_likes {
+    margin-left: 0px;
+    margin-top: 177px;
+}
+
+.sesann_col1 {
+    padding: 0 0 0 0;
+}
+
+.sesann_col2 {
+    padding: 0 0 0 0;
+}
+
+.sesann_col3 {
+    padding: 0 0 0 0;
+}
+
+.tobano_title {
+    margin-left: 46px;
+    margin-top: 259px;
+}
+
+.tobano_about {
+    margin-left: 46px;
+    margin-top: 13px;
+}
+
+.tobano_view {
+    margin-left: 0;
+    margin-top: 287px;
+}
+
+.tobano_likes {
+    margin-left: 0px;
+    margin-top: 287px;
+}
+
+.tobano_col1 {
+    padding: 0 0 0 0;
+}
+
+.tobano_col2 {
+    padding: 0 0 0 0;
+}
+
+.tobano_col3 {
+    padding: 0 0 0 0;
+}
+
+.timeline_h {
+    margin-top: 46px;
+    margin-left: 76px;
+    color: #333333;
+    font-family: "Roboto Condensed";
+    font-size: 11px;
+    text-transform: uppercase;
+}
+
+.timeline_arrow {
+    margin-left: 58px;
+    color: #ffffff;
+    font-family: "Roboto Condensed";
+    font-size: 10px;
+    text-transform: uppercase;
+    /* padding-top: 2px; */
+}
+
+.timeline_years {
+    margin-left: 76px;
+    width: 20px;
+    height: 52px;
+    color: #ffffff;
+    font-family: "Roboto Condensed";
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 10.64px;
+    text-transform: uppercase;
+}
+
+.studio_menu h1 {
+    margin-top: 225px;
+    margin-left: 163px;
+    width: 108px;
+    height: 28px;
+    color: #fefefe;
+    font-family: "Roboto Condensed";
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 10.64px;
+    text-transform: uppercase;
+}
+
+.studi_text_up {
+    margin-top: 71px;
+    margin-left: 20px; 
+    width: 263px;
+    height: 108px;
+    color: #333333;
+    font-family: "Roboto Condensed";
+    font-size: 14px;
+    font-style: italic;
+    line-height: 13.68px;
+    padding: 0 0;
+}
+
+.studio_text_down {
+    margin-top: 29px;
+    margin-left: 20px; 
+    width: 257px;
+    height: 122px;
+    color: #333333;
+    font-family: "Roboto Condensed";
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 12.16px;
+    padding: 0 0;
+}
+
+.studio_awards_image h1 {
+    margin-top: 32px;
+    width: 37px;
+    height: 9px;
+    color: #333333;
+    font-family: "Roboto Condensed";
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 13.68px;
+    text-transform: uppercase;
+}
+
+
+
+.studio_awards_text {
+    /* margin-top: 63px; */
+    /* margin-left: 30px; */
+    width: 115px;
+    height: 51px;
+    color: #333333;
+    font-family: "Roboto Condensed";
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 10.64px;
+    text-transform: uppercase;
+}
+
+.studio_staff h1 {
+    margin-top: 49px;
+    margin-left: 127px;
+    font-family: "Roboto Condensed";
+    font-weight: 400;
+    line-height: 10.64px;
+    font-size: 11px;
+    text-transform: uppercase;
+}
+
+.studio_staff p {
+    margin-top: 10px;
+    margin-left: 127px;
+    color: #333333;
+    font-family: "Roboto Condensed";
+    font-size: 11px;
+    font-weight: 300;
+}
+.FIO {
+    color: #333333;
+    font-family: "Roboto Condensed";
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 12.16px;
+    text-transform: uppercase;
+}
+
+.prof {
+    width: 38px;
+    height: 8px;
+    color: #333333;
+    font-family: "Roboto Condensed";
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 12.16px;
+    text-transform: uppercase;
 }
