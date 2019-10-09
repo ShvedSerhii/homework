@@ -111,3 +111,102 @@ margin-left: 125px;
     line-height: 10.64px;
     text-transform: uppercase;
 }
+
+.project_menu {
+    height: 380px;
+    background: url(../img/line.png) no-repeat;
+    background-size:100% 100%;
+    background-color: #ebb240;
+}
+
+.project_menu .project_menu_arrow {
+    margin-top: 129px;
+    margin-left: 109px;
+}
+
+.project_menu p {
+    margin-top: 0px;
+    margin-left: 124px;
+    color: #ffffff;
+    font-family: "Roboto Condensed";
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 10.64px;
+    text-transform: uppercase;
+}
+
+p {margin:0px;}
+
+.project_menu .arrow{
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.project_menu span {
+    color: #000000;
+}
+
+.project_menu h1 {
+    margin-top: 47px;
+    margin-left: 164px;
+    color: #fefefe;
+    font-family: "Roboto Condensed";
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 10.64px;
+    text-transform: uppercase;
+}
+
+.project_fondue {
+    height: 380px;
+    background: url(../img/fondue.png) no-repeat;
+    background-color: #ffffff;
+}
+
+.project_louis {
+    height: 354px;
+    background: url(../img/louis.png) no-repeat;
+    background-size: cover;
+    /* background-color: #607479; */
+}
+
+.project_p22 {
+    height: 354px;
+    background: url(../img/p22.png) no-repeat;
+}
+
+.project_sesann {
+    height: 229px;
+    background: url(../img/sesann.png) no-repeat;
+    background-color: #fcfcfc;
+}
+
+.project_alessi {
+    height: 229px;
+    background: url(../img/alessi.png) no-repeat;
+    background-size: cover;
+}
+
+.project_potter {
+    height: 188px;
+    background: url(../img/potter.png) no-repeat;
+    background-color: #dfe0d9;
+}
+
+.project_tabano {
+    height: 355px;
+    background: url(../img/tabano.png) no-repeat;
+}
+
+.project_fiji {
+    height: 192px;
+    background: url(../img/figi.png) no-repeat;
+}
+
+.project_timeline {
+    height: 229px;
+    background: url(../img/line.png) no-repeat;
+    background-position: bottom;
+    /* background-size:100% 100%; */
+    background-color: #ebb240;
+}
